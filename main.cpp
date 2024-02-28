@@ -7,15 +7,8 @@ using namespace std;
 
 
 /*
-to do list:
-DONE: create node.cpp adn node.h plus all the functions required
-create thing to read in from file/ manual
-create all of the functions
-adn then do it all :(
-
-
-
-atm need to do: line 50ish (reading in a file)---------------
+Binary Search Tree
+Anika Gupta 2/28/24
  */
 bool SEARCH(node* root, int toSearch);
 node* ADD(node* &root, int data);
